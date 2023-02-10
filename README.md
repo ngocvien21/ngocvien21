@@ -1,5 +1,5 @@
 ### Hi I'm Vin 👋
-I studying about Data Engineer.
+I'm studying about Data Engineer.
 
 <!--
 **I
