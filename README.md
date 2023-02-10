@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi I'm Vin 👋
+I studying about Data Engineer.
 
 <!--
-**ngocvien21/ngocvien21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I
 
 Here are some ideas to get you started:
 
