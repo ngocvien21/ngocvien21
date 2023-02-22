@@ -1,5 +1,5 @@
 ### Hi I'm Vin 👋
-  - I'm studying about Data Engineer.
+  - I'm studying about Data Engineer👧.
   - In my git, I will update all project was builded by me💪. 
   Hope you can give me comment after viewed my project💜.
 <!--
